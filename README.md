@@ -8,7 +8,7 @@ I started learning how to use R code by working with the Palmer Penguins data se
 
 ## Work with Great Lakes Fish
 
-I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here]((https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.rmarkdown). 
+I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.rmarkdown). 
 
 
 Alt-H1

@@ -4,7 +4,7 @@ This is a page where I will share some information about myself and the work I a
 
 ## Work with Penguins 
 
-I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a smal subset of 44 penguins. If you're interested, you can view my analayis [here](https://github.com/s-pietz/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html). 
+I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a smal subset of 44 penguins. If you're interested, you can view my analayis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html). 
 
 
 Alt-H1

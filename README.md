@@ -1,11 +1,12 @@
-# Skylar Pietz
-## H2 Heading
-### H3 Heading
-#### H4 Heading
-##### H5 Heading
-###### H6 Heading 
+# Skylar Pietz's Webpage 
+## H2
+### H3 
+#### H4
+##### H5 
+###### H6 
 
-Alternatively, for H1 and H2, an underline-ish style:
+This is a page where I will share some information about myself and the work I am doing in Bioinformatics. So far, I've done some work to analyze data on Penguins and some other datasets. 
+
 
 Alt-H1
 ======

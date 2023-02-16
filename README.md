@@ -1,11 +1,10 @@
 # Skylar Pietz's Webpage 
-## H2
-### H3 
-#### H4
-##### H5 
-###### H6 
 
-This is a page where I will share some information about myself and the work I am doing in Bioinformatics. So far, I've done some work to analyze data on Penguins and some other datasets. 
+This is a page where I will share some information about myself and the work I am doing in Bioinformatics. So far, I've done some work to analyze data on Penguins and some other datasets including Great Lakes Fish species. 
+
+## Work with Penguins 
+
+I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a smal subset of 44 penguins. If you're interested, you can view my analayis [here](https://github.com/s-pietz/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html). 
 
 
 Alt-H1

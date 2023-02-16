@@ -4,7 +4,11 @@ This is a page where I will share some information about myself and the work I a
 
 ## Work with Penguins 
 
-I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a smal subset of 44 penguins. If you're interested, you can view my analayis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html).
+I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a small subset of 44 penguins. If you're interested, you can view my analayis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html).
+
+## Work with Great Lakes Fish
+
+I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here]((https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.rmarkdown). 
 
 
 Alt-H1

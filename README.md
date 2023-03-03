@@ -22,8 +22,17 @@ I then began an alaysis with a data set of various species of fish found in the 
 
 I liked this analysis because I was able to pick a data set, that I was interested in, and use what I learned with R and Biostatistics during our Penguins class analysis to undergo my own. 
 
-## More on Great Lakes Fish
-The first step in doing so was creating a hypothesis.The Great Lakes Fish data set comes from Great Lakes Fish Commission and includes 7 variables on 65,706 fish. Using code, I was able to split the data into exploratory and test data. My exploratory data included 7 variables of 32,853 fish. Therefore, I hypothesized that since the Lake Whitefish species is most abundant then this species will also have the greatest value (production amount). 
+### More on Great Lakes Fish
+The first step in doing so was creating a hypothesis.The Great Lakes Fish data set comes from Great Lakes Fish Commission and includes 7 variables on 65,706 fish. Using code, I was able to split the data into exploratory and test data. My exploratory data included 7 variables of 32,853 fish. Therefore, I hypothesized that since the Lake Whitefish species is most abundant then this species will also have the greatest value (production amount). Again with this data, I was able to formulate some questions in order to gain a deeper understanding of the data on Great Lakes Fish. These questions include,
+1. What species was observed the most throughout the lakes and regions? (overall grand total)
+2. In what region were the most fish found overall?
+3. Which specific lake housed the greatest amount of the most abundant species found in question 1?
+4. What species yield the greatest production value?
+
+To see more images and graphs I created to help me answer and represent these questions, don't forget to check out the full analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.html). 
+
+
+
 
 
 

@@ -18,7 +18,9 @@ I ejoyed creating these questions in order to guide our analysis and facilitate 
 
 ## Work with Great Lakes Fish
 
-I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.rmarkdown). 
+I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.html). 
+
+https://github.com/s-pietz/BioStatisticsAnalysis/blob/main/GreatLakesFish.html
 
 
 Alt-H1

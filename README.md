@@ -6,6 +6,16 @@ This is a page where I will share some information about myself and the work I a
 
 I started learning how to use R code by working with the Palmer Penguins data set. We ran an analysis using a small subset of 44 penguins. If you're interested, you can view my analayis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html).
 
+### More on Penguins
+This data set on Penguins included 8 features measured on 44 penguins. The features included are physiological features (like bill length, bill depth, flipper length, body mass, etc) as well as other features like the year that the penguin was observed, the island the penguin was observed on, the sex of the penguin, and the species of the penguin. We were able to ask many different questions regarding the penguins. Some questions that we formulated as a class in order to better understand the data we were working with included:
++ What is the average flipper length? What about for each species?
++ Are there more male or female penguins? What about per island or species?
++ What is the average body mass? What about by island? By species? By sex?
++ What is the ratio of bill length to bill depth for a penguin? What is the overall average of this metric? Does it change by species, sex, or island?
++ Does average body mass change by year?
+
+I ejoyed creating these questions in order to guide our analysis and facilitate our learning on how to use R code and manipulate data in this section. Specifically, we learned how to filter rows, subset columns, group data, and compute summary statistics. Remeber to check out my full analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Penguins_Analysis2_1_17.html).
+
 ## Work with Great Lakes Fish
 
 I then began an alaysis with a data set of various species of fish found in the Great Lakes regions. If you're also interested in this data, you can view my analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.rmarkdown). 

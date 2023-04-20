@@ -36,7 +36,7 @@ I applied my knowledge using code to tackle my first real bioinformatics applica
 
 The main purpose of these notebooks was to identify the location of the replication origin within a genome. I was able to apply the techniques I've learned from previous notebooks to help analyse the random genomes that I've generated as well as real bacterial genomes. I thought it was very interesting how I could take was I learned in my Biology classes and connect it to using code and statistics, which I have never done before! I used code to search for frequent genetic sbstrings that signal replication to DNA polymerase. Next, I learned to narrow down the area in which I was searching for the replication origin. In order to solve this, I exploited properties of genetic transcription and mutations, which I just learned about in my genetics class!
 
-If you're interested, you can see how I worked through each notebook and view my full analayis of the Replication Origin Project [here](https://s-pietz.github.io/agmath/BIO4ST1_Group3/Replication_Skylar_Pietz.html). 
+If you're interested, you can see how I worked through each notebook and view my full analayis of the Replication Origin Project [here](https://agmath/BIO4ST1_Group3/Replication_Skylar_Pietz.html). 
 
 
 ## THE END

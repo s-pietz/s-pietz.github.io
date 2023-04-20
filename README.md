@@ -31,6 +31,13 @@ The first step in doing so was creating a hypothesis. The Great Lakes Fish data 
 
 To see more images and graphs I created to help me answer and represent these questions, don't forget to check out the full analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/GreatLakesFish.html). 
 
+## Work with the Replication of Origin Project
+I applied my knowledge using code to tackle my first real bioinformatics application. This project involved working through 4 different notbeooks called Intro to R for Bioinformatics, and Finding the Replication Origin, Parts I, II, and III. What was unique about this project was that we each were assigned a group to work with over several weeks to complete the replication origin project. I was able to colloaborate with my group-mates and connect our work to a shared GitHub repository. My group was named the Bioinformatics Finatics! 
+
+The main purpose of these notebooks was to identify the location of the replication origin within a genome. I was able to apply the techniques I've learned from previous notebooks to help analyse the random genomes that I've generated as well as real bacterial genomes. I thought it was very interesting how I could take was I learned in my Biology classes and connect it to using code and statistics, which I have never done before! I used code to search for frequent genetic sbstrings that signal replication to DNA polymerase. Next, I learned to narrow down the area in which I was searching for the replication origin. In order to solve this, I exploited properties of genetic transcription and mutations, which I just learned about in my genetics class!
+
+If you're interested, you can see how I worked through each notebook and view my full analayis of the Replication Origin Project [here]( 
+
 
 ## THE END
 

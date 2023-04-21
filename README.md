@@ -41,11 +41,29 @@ If you're interested, you can see how I worked through each notebook and view my
 ## Work with Volcano Eruptions!
 The last portion of this project was to conduct an additional biostatistics project on another dataset. I chose to perform an analysis on a data set of volcanic eruptions. This data comes from The Smithsonian Institution and decribes volcanic activty from within the past 2,500 years. If you're interested in this data, you can view my full analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Volcano_Eruptions.html). 
 
-I enjoyed this analysis because I was able to pick a data set, that I was interested in, and use what I learned with R studio, code, and biostatistics throughout the semester to perform my own analyzation.
+I enjoyed this analysis because I was able to pick a data set that I was interested in, and use what I learned throughout the semester with R studio, code, and biostatistics to perform my own analyzation. In the end I was able to answer some questions I had about the data.  
 
+### More on Volcanic Eruptions
+
+Just like the inital analysis on Great Lakes Fish, the first step in doing so was creating a hypothesis. The Volcano Eruptions data set comes from The Smithsonian Institution and includes 26 variables on 11,178 volcanoes. Using code, I was able to split the data into exploratory and test data. My exploratory data included 15 variables of 5,589 volcanoes. Therefore, I hypothesized that although volcanoes exist all over the globe, the most active volcanoes with confirmed eruptions are located close in proximity in nearby areas/regions on the map. Again with this data, I was able to formulate some interesting questions in order to gain a deeper understanding of the Volcano Eruptions data and to determine if I could accept or reject my hypothesis. These questions include,
+
+1. Were there more confirmed or unconfirmed eruptions reported in total?
+2. Which volcano recorded the highest number of confirmed eruptions?
+3. In what area did the most reported eruptions occur?
+
+The image added below represents the volcanic explosivity index (VEI). This is a relative measure of the explosiveness of volcanic eruptions. It was devised by Christopher G. Newhall of the United States Geological Survey and Stephen Self in 1982.
 
 [Volcano Explosivity Index](https://camo.githubusercontent.com/9747c0fa7422e02bee5546dd6496ceefaac0e51d8854128f49268e124c4e62eb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30312f5645496669677572655f656e2e737667)
 
+"Volume of products, eruption cloud height, and qualitative observations (using terms ranging from "gentle" to "mega-colossal") are used to determine the explosivity value. The scale is open-ended with the largest eruptions in history given a magnitude of 8. A value of 0 is given for non-explosive eruptions, defined as less than 10,000 m3 (350,000 cu ft) of tephra ejected; and 8 representing a mega-colossal explosive eruption that can eject 1.0×1012 m3 (240 cubic miles) of tephra and have a cloud column height of over 20 km (66,000 ft). The scale is logarithmic, with each interval on the scale representing a tenfold increase in observed ejecta criteria, with the exception of between VEI-0, VEI-1 and VEI-2, " (1). 
+
+Once again, to see more images and tables I created to help me answer and represent these questions regarding recent and past volcanic activity, check out the full Volcano Eruptions analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Volcano_Eruptions.html). 
+
+
+
+References:
+
+1. Newhall, Christopher G.; Self, Stephen (1982). "The Volcanic Explosivity Index (VEI): An Estimate of Explosive Magnitude for Historical Volcanism" (PDF). Journal of Geophysical Research. 87 (C2): 1231–1238. Bibcode:1982JGR....87.1231N. doi:10.1029/JC087iC02p01231. Archived from the original (PDF) on December 13, 2013
 
 
 ## THE END

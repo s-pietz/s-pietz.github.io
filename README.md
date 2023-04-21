@@ -38,6 +38,12 @@ The main purpose of these notebooks was to identify the location of the replicat
 
 If you're interested, you can see how I worked through each notebook and view my full analayis of the Replication Origin Project [here](https://agmath.github.io/BIO4ST1_Group3/Replication_Skylar_Pietz.html). 
 
+## Work with Volcano Eruptions!
+The last portion of this project was to conduct an additional biostatistics project on another dataset. I chose to perform an analysis on a data set of volcanic eruptions. This data comes from The Smithsonian Institution and decribes volcanic activty from within the past 2,500 years. If you're interested in this data, you can view my full analysis [here](https://s-pietz.github.io/BioStatisticsAnalysis/Volcano_Eruptions.html). 
+
+I enjoyed this analysis because I was able to pick a data set, that I was interested in, and use what I learned with R studio, code, and biostatistics throughout the semester to perform my own analyzation.
+
+[image](https://user-images.githubusercontent.com/122034885/233742041-4f8c5b21-6c53-467d-ab17-cbd6b327c973.png) 
 
 ## THE END
 

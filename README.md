@@ -43,7 +43,10 @@ The last portion of this project was to conduct an additional biostatistics proj
 
 I enjoyed this analysis because I was able to pick a data set, that I was interested in, and use what I learned with R studio, code, and biostatistics throughout the semester to perform my own analyzation.
 
-[image](https://camo.githubusercontent.com/9747c0fa7422e02bee5546dd6496ceefaac0e51d8854128f49268e124c4e62eb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30312f5645496669677572655f656e2e737667)
+
+[Volcano Explosivity Index](https://camo.githubusercontent.com/9747c0fa7422e02bee5546dd6496ceefaac0e51d8854128f49268e124c4e62eb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30312f5645496669677572655f656e2e737667)
+
+
 
 ## THE END
 
